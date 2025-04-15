@@ -1,0 +1,16 @@
+{
+  "name": "blogify",
+  "version": "1.0.0",
+  "description": "Here you can create and manage your blogs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
